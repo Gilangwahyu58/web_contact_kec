@@ -380,14 +380,7 @@ body {
   margin-bottom: 20px; /* jarak bawah */
 }
 
-/* Footer */
-.footer {
-  text-align: center;
-  background: #0b3b66;
-  color: white;
-  padding: 12px;
-  font-size: 14px;
-}
+
 
 * {
   margin: 0;
@@ -564,13 +557,7 @@ body {
   box-shadow: 0 4px 8px rgba(0,0,0,0.1);
 }
 
-.footer {
-  background-color: #0a3d62;
-  color: white;
-  text-align: center;
-  padding: 15px;
-  font-size: 14px;
-}
+
 
 /* Responsif */
 @media (max-width: 768px) {
