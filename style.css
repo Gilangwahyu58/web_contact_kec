@@ -154,15 +154,6 @@
 }
 
 
-/* BACKGROUND WALLPAPER */
-.main-background {
-  padding: 30px;
-  background-image: url('assets/wallpaper.jpg');
-  background-size: cover;
-  background-position: center;
-  background-attachment: fixed;
-}
-
 /* SECTION PUTIH TRANSPARAN */
 .section {
   background: rgba(255,255,255,0.85);
